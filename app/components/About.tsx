@@ -31,14 +31,15 @@ export default function About() {
           >
             <p>
               I'm a Master's student in Data Science at Hochschule Fulda with 3+ years of professional experience 
-              as a Senior Analyst in Nielsen's Global Incubator Team. My expertise spans Machine Learning (XGBoost, LightGBM, RandomForest), 
+              as a Senior Analyst in Nielsen's Global Incubator Team. My expertise spans Machine Learning (XGBoost, LightGBM, RandomForest), Statisical Analysis,
               generative AI, and building production-grade analytical solutions using Python, Streamlit, and cloud platforms.
             </p>
             <p>
               At Nielsen/Circana, I developed and deployed ML models processing complex, large-scale datasets. 
+              We delivered insights that drove strategic decisions for top-tier clients across APAC and EMEA, including YouTube, Meta using Nielsen's Marketing mix modeling (MMM).
               I led the "Metrics That Matter" study leveraging Gradient Boosted Trees to extract actionable business insights, 
-              and created sophisticated analytics dashboards for stakeholders across YouTube and Meta. Additionally, I designed 
-              synthetic KPIs using PCA for performance measurement and contributed to backend testing achieving 95% code coverage.
+              and created analytics dashboards for stakeholders across YouTube and Meta. Additionally, I designed 
+              synthetic KPIs using PCA for performance measurement.
             </p>
             <p>
               Currently advancing my expertise in LLM Architecture and Agentic AI systems. With hands-on experience across APAC 
