@@ -5,13 +5,13 @@ import { ExternalLink, Github, Cpu, TrendingUp, FileCode, Activity } from "lucid
 
 const projects = [
   {
-    title: "Polish Bankruptcy Prediction",
-    description: "Classification system predicting corporate bankruptcy using 64 financial ratios. Mitigated severe class imbalance using SMOTE and RandomOverSampler, achieving 94% F1-score on test set.",
-    impact: "94% F1-Score",
-    tags: ["Python", "Scikit-learn", "XGBoost", "SMOTE"],
-    icon: TrendingUp,
-    color: "from-purple-500 to-pink-600",
-    github: "https://github.com/SarangPratap/Bankruptcy_Prediction_in-poland",
+    title: "F1 Insight Hub",
+    description: "Comprehensive Formula 1 analytics platform analyzing race statistics, driver performance, and historical trends. Interactive dashboards visualizing championship standings, pit stop strategies, and race outcomes with predictive models.",
+    impact: "50+ Metrics",
+    tags: ["Python", "Data Analytics", "Racing", "Visualization"],
+    icon: Activity,
+    color: "from-red-500 to-yellow-600",
+    github: "https://github.com/SarangPratap/F1-Insight-Hub",
     demo: "#"
   },
   {
@@ -25,6 +25,16 @@ const projects = [
     demo: "#"
   },
   {
+    title: "Polish Bankruptcy Prediction",
+    description: "Classification system predicting corporate bankruptcy using 64 financial ratios. Mitigated severe class imbalance using SMOTE and RandomOverSampler, achieving 94% F1-score on test set.",
+    impact: "94% F1-Score",
+    tags: ["Python", "Scikit-learn", "XGBoost", "SMOTE"],
+    icon: TrendingUp,
+    color: "from-purple-500 to-pink-600",
+    github: "https://github.com/SarangPratap/Bankruptcy_Prediction_in-poland",
+    demo: "#"
+  },
+  {
     title: "Automated MLOps Pipeline",
     description: "Integrated Optuna and Neptune to automate hyperparameter logging and model versioning for LightGBM models. Created reproducible pipelines reducing manual tuning effort by 40% and improving experiment tracking.",
     impact: "40% Time Saved",
@@ -32,16 +42,6 @@ const projects = [
     icon: FileCode,
     color: "from-orange-500 to-red-600",
     github: "https://github.com/SarangPratap/Lightgbm.neptune",
-    demo: "#"
-  },
-  {
-    title: "F1 Insight Hub",
-    description: "Comprehensive Formula 1 analytics platform analyzing race statistics, driver performance, and historical trends. Interactive dashboards visualizing championship standings, pit stop strategies, and race outcomes with predictive models.",
-    impact: "50+ Metrics",
-    tags: ["Python", "Data Analytics", "Racing", "Visualization"],
-    icon: Activity,
-    color: "from-red-500 to-yellow-600",
-    github: "https://github.com/SarangPratap/F1-Insight-Hub",
     demo: "#"
   }
 ];
